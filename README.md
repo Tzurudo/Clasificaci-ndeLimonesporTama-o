@@ -1,4 +1,4 @@
-# Clasificaci-ndeLimonesporTamanio
+
 # Clasificación de Limones por Tamaño con Visión Artificial y Arduino
 
 Este proyecto implementa un sistema automático para clasificar limones en diferentes tamaños (pequeño, mediano, grande) usando visión artificial en Python y controlando servomotores a través de Arduino. El sistema puede integrarse con una banda transportadora para automatizar el proceso en entornos agrícolas o industriales.
